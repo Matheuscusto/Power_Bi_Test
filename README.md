@@ -20,7 +20,7 @@
 
 </div>
 
----
+ src="./assets/projeto.gif" width="700">
 
 # 👨‍💻 Sobre mim
 
