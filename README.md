@@ -18,7 +18,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Construindo+carreira+em+Dados;SQL+%7C+Power+BI+%7C+Python+%7C+Git;Transformando+dados+em+informa%C3%A7%C3%A3o" />
 
-<img src="./Assets/lv_0_20260921201741.mp4" width="700">
+<img src="./Assets/lv_0_20260921201741.gif" width="700">
 
 # 👨‍💻 Sobre mim
 
