@@ -1,12 +1,11 @@
 <div align="center">
 
-# DASH
+# DASHBOARD
 
 ### Power BI • Data Analytics • Business Intelligence
 
 <br>
 
-<img src="./Assets/projeto.gif" width="900">
 
 <br><br>
 
@@ -47,10 +46,8 @@ O dashboard foi desenvolvido para centralizar e organizar as principais informa�
 Entre os elementos utilizados estão:
 
 * 📌 Indicadores e informações resumidas
-* 📊 Gráficos e visualizações
 * 🔎 Filtros e segmentações
 * 📅 Informações relacionadas ao período acadêmico
-* 📈 Métricas e dados relevantes
 * 🗂️ Organização das informações
 * 🔄 Navegação entre diferentes elementos do dashboard
 
@@ -76,35 +73,6 @@ Utilizado para:
 * Criação de medidas e métricas
 * Desenvolvimento da interface
 * Apresentação visual das informações
-
----
-
-## 📐 Estrutura da análise
-
-O dashboard foi desenvolvido buscando apresentar as informações de maneira simples e intuitiva, permitindo que o usuário explore os dados através dos elementos interativos.
-
-### Principais elementos
-
-**📊 Indicadores**
-
-Apresentação resumida das principais informações disponíveis no conjunto de dados.
-
-**📈 Visualizações**
-
-Gráficos utilizados para facilitar a interpretação e comparação das informações.
-
-**🔎 Filtros**
-
-Permitem selecionar diferentes informações para modificar dinamicamente os dados apresentados.
-
-**📅 Período acadêmico**
-
-Organização das informações considerando diferentes períodos e etapas acadêmicas.
-
-**🖥️ Interface**
-
-Layout desenvolvido para manter as informações organizadas e facilitar a navegação pelo dashboard.
-
 ---
 
 ## 🎬 Demonstração
@@ -118,22 +86,6 @@ Layout desenvolvido para manter as informações organizadas e facilitar a naveg
 **Demonstração do dashboard desenvolvido em Power BI**
 
 </div>
-
----
-
-## 💡 Conhecimentos aplicados
-
-Este projeto demonstra a aplicação prática de conceitos relacionados a:
-
-* Business Intelligence
-* Análise de dados
-* Visualização de dados
-* Dashboards interativos
-* Power BI
-* Indicadores e métricas
-* Organização de informações
-* Modelagem e tratamento de dados
-* Design de interfaces para análise de dados
 
 ---
 
