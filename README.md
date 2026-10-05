@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📊 Dashboard de Vendas
+# DASH
 
 ### Power BI • Data Analytics • Business Intelligence
 
@@ -10,7 +10,7 @@
 
 <br><br>
 
-**Dashboard interativo desenvolvido em Power BI para análise e visualização de dados de vendas.**
+**Dashboard desenvolvido em Power BI para facilitar a visualização e organização das informações acadêmicas disponíveis no aplicativo da Estácio.**
 
 </div>
 
@@ -18,19 +18,23 @@
 
 ## 📌 Sobre o projeto
 
-Este projeto consiste no desenvolvimento de um **dashboard interativo no Power BI**, criado para transformar dados de vendas em informações visuais de fácil interpretação.
+Este projeto consiste no desenvolvimento de um **dashboard interativo no Power BI**, criado com o objetivo de facilitar a visualização e a organização das informações disponíveis no aplicativo da **Estácio**.
 
-O dashboard reúne indicadores, gráficos, filtros e diferentes visualizações para permitir uma análise mais clara dos dados e facilitar a identificação de informações relevantes.
+A ideia surgiu como um pequeno projeto experimental para explorar como os dados acadêmicos poderiam ser apresentados de maneira mais **visual, organizada e intuitiva**, centralizando informações que normalmente ficam distribuídas pela interface do aplicativo.
 
-O GIF acima apresenta uma **demonstração do dashboard em funcionamento**, mostrando sua interface e navegação.
+O dashboard utiliza indicadores, gráficos, filtros e diferentes elementos visuais para proporcionar uma experiência de consulta mais prática.
+
+> **Este projeto representa uma primeira versão experimental. Futuramente, pretendo desenvolver uma versão mais completa, atualizada e com novos recursos.**
 
 ---
 
 ## 🎯 Objetivo
 
-O objetivo do projeto é desenvolver uma solução de **Business Intelligence** capaz de organizar e apresentar dados de forma visual e interativa.
+O principal objetivo é transformar informações acadêmicas em uma apresentação visual mais clara e fácil de interpretar.
 
-Através do dashboard, é possível explorar diferentes informações utilizando filtros e indicadores, tornando a análise mais dinâmica.
+Através do dashboard, é possível explorar os dados de forma mais dinâmica, utilizando filtros, indicadores e diferentes visualizações.
+
+O projeto também serviu como uma oportunidade para colocar em prática conhecimentos de **Power BI, análise de dados e construção de dashboards interativos**.
 
 ---
 
@@ -38,17 +42,17 @@ Através do dashboard, é possível explorar diferentes informações utilizando
 
 ### Visão geral
 
-O projeto apresenta uma interface desenvolvida para centralizar as principais informações da análise.
+O dashboard foi desenvolvido para centralizar e organizar as principais informações acadêmicas em uma única interface.
 
 Entre os elementos utilizados estão:
 
-* 📌 Indicadores de desempenho
+* 📌 Indicadores e informações resumidas
 * 📊 Gráficos e visualizações
 * 🔎 Filtros e segmentações
-* 📅 Análise por período
-* 📈 Métricas de vendas
+* 📅 Informações relacionadas ao período acadêmico
+* 📈 Métricas e dados relevantes
 * 🗂️ Organização das informações
-* 🔄 Navegação entre páginas
+* 🔄 Navegação entre diferentes elementos do dashboard
 
 ---
 
@@ -68,37 +72,38 @@ Utilizado para:
 * Criação das visualizações
 * Desenvolvimento dos indicadores
 * Aplicação de filtros e segmentações
-* Modelagem dos dados
-* Criação de medidas
-* Organização e apresentação das informações
+* Organização dos dados
+* Criação de medidas e métricas
+* Desenvolvimento da interface
+* Apresentação visual das informações
 
 ---
 
 ## 📐 Estrutura da análise
 
-O dashboard foi desenvolvido buscando organizar as informações de forma intuitiva, permitindo que o usuário explore os dados através dos elementos interativos disponíveis.
+O dashboard foi desenvolvido buscando apresentar as informações de maneira simples e intuitiva, permitindo que o usuário explore os dados através dos elementos interativos.
 
 ### Principais elementos
 
 **📊 Indicadores**
 
-Apresentação resumida das principais métricas do conjunto de dados.
+Apresentação resumida das principais informações disponíveis no conjunto de dados.
 
 **📈 Visualizações**
 
-Gráficos utilizados para facilitar a identificação de padrões e variações.
+Gráficos utilizados para facilitar a interpretação e comparação das informações.
 
 **🔎 Filtros**
 
-Possibilidade de selecionar diferentes categorias e períodos para modificar a análise apresentada.
+Permitem selecionar diferentes informações para modificar dinamicamente os dados apresentados.
 
-**📅 Período**
+**📅 Período acadêmico**
 
-Utilização de informações temporais para permitir diferentes perspectivas da análise.
+Organização das informações considerando diferentes períodos e etapas acadêmicas.
 
 **🖥️ Interface**
 
-Organização visual pensada para manter as informações importantes acessíveis e facilitar a navegação pelo dashboard.
+Layout desenvolvido para manter as informações organizadas e facilitar a navegação pelo dashboard.
 
 ---
 
@@ -110,7 +115,7 @@ Organização visual pensada para manter as informações importantes acessívei
 
 <br><br>
 
-**Demonstração do dashboard em Power BI**
+**Demonstração do dashboard desenvolvido em Power BI**
 
 </div>
 
@@ -124,10 +129,27 @@ Este projeto demonstra a aplicação prática de conceitos relacionados a:
 * Análise de dados
 * Visualização de dados
 * Dashboards interativos
-* Indicadores de desempenho
-* Modelagem de dados
-* Métricas e cálculos
-* Organização e apresentação de informações
+* Power BI
+* Indicadores e métricas
+* Organização de informações
+* Modelagem e tratamento de dados
+* Design de interfaces para análise de dados
+
+---
+
+## 🚀 Próximos passos
+
+Esta versão foi desenvolvida como um **protótipo inicial**, com o objetivo de testar a proposta e explorar diferentes possibilidades de visualização.
+
+Para uma futura versão, pretendo:
+
+* 🔄 Atualizar as informações e dados
+* 📊 Adicionar novas visualizações
+* 📌 Criar novos indicadores
+* 🎨 Aprimorar a interface
+* 🔎 Melhorar os filtros e a navegação
+* 📱 Explorar uma apresentação mais próxima da experiência do aplicativo
+* ⚡ Tornar o dashboard mais completo e dinâmico
 
 ---
 
@@ -135,7 +157,7 @@ Este projeto demonstra a aplicação prática de conceitos relacionados a:
 
 ## 📊 Power BI
 
-**Transformando dados em informações visuais para facilitar a análise e a tomada de decisões.**
+**Transformando informações acadêmicas em dados visuais para facilitar a consulta e a análise.**
 
 <br>
 
